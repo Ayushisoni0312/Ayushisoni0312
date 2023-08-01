@@ -163,7 +163,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
   <p>
     <a href="https://github.com/Ayushi0312"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi9797&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushi0312&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
           src="https://github-readme-stats.vercel.app/api?username=Ayushi0312&show_icons=true&locale=en&theme=github_dark&hide_border=true"
