@@ -145,7 +145,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
   
   <p align="">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushi9797&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayushi0312&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   <br /><br />
   </p>
 
