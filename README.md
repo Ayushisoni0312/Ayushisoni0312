@@ -62,7 +62,8 @@ width="30px">&nbsp; Ayushi Soni </h4>
     <br>
       </span>
       <span>
-    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=ayushi9797&label=Profile%20views&color=939B62&style=flat" alt="ayushi9797" />
+    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=Ayushi0312&label=Profile%20views&color=939B62&style=flat" alt="Ayushisoni0312
+" />
       </span>
       <br>
     </p>
