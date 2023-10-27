@@ -16,7 +16,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
 - 👨‍💻 some of my projects are available at : [Ayushi.com](https://Ayushi0312.github.io/)
 
 
-- 💬 Ask me about **Node Backend, Express, Fastify, SQL, Postgres, Docker, Mongodb, Html, CSS, JavaScript, Redis, Socket, Typescript, LLD, HLD System Design, Reactjs, Data Structure and algorithms**
+- 💬 Ask me about **Node Backend, Express, Fastify, SQL, Postgres,API Integration, JMETER, API Testing, Angular, Docker, Mongodb, Html, CSS, JavaScript, Redis, Socket, Typescript, LLD, HLD System Design, Reactjs, Data Structure and algorithms**
 
 - 📫 How to reach me **ayushi.soni@quantela.com**
 
