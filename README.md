@@ -37,7 +37,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
 <img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
 
 <h2 align="center"></h2>
-    <img src="![logoo png](https://github.com/Ayushi0312/Ayushi0312/assets/112810259/29de3d94-5a1c-48b8-8572-be5c1b27d8c7)
+    <img src="![logoo png](https://github.com/Ayushisoni0312/Ayushisoni0312/assets/112810259/29de3d94-5a1c-48b8-8572-be5c1b27d8c7)
 "/>
     <br/><br/>
     <div align="center">
@@ -62,7 +62,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
     <br>
       </span>
       <span>
-    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=Ayushi0312&label=Profile%20views&color=939B62&style=flat" alt="Ayushisoni0312
+    <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=Ayushisoni0312&label=Profile%20views&color=939B62&style=flat" alt="Ayushisoni0312
 " />
       </span>
       <br>
@@ -162,12 +162,12 @@ width="30px">&nbsp; Ayushi Soni </h4>
 
   
   <p>
-    <a href="https://github.com/Ayushi0312"><span>
+    <a href="https://github.com/Ayushisoni0312"><span>
         <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushi0312&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushisoni0312&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
           alt="ovi" width="45%" />
           <img align="right"
-          src="https://github-readme-stats.vercel.app/api?username=Ayushi0312&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=Ayushisoni0312&show_icons=true&locale=en&theme=github_dark&hide_border=true"
           alt="ovi" width="45%"  />
       </span></a>
   </p>
@@ -192,7 +192,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
 <br />
   
   <p align="center">
-    <a href="https://github.com/Ayushi0312"><span>
+    <a href="https://github.com/Ayushisoni0312"><span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushi0312&theme=github_dark" width="100%" />
       </span></a>
